@@ -1,3 +1,17 @@
+---
+element: body
+
+hp: 0
+shield: 0
+break: 3
+spiritual_power: 0
+attack: 14
+defense: 0
+phychic_power: 26
+technique: 0
+charge: 0
+luck: 0
+---
 ![[Thumb_Card_30005.png]]
 
 レザネで弾を消す感覚をつかみ、ワクワクしながら使うと被弾する想起。

@@ -1,5 +1,5 @@
 ---
-type: skill
+class: skill
 kairyoku: 
 tags: 
 ---

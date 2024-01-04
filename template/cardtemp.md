@@ -1,7 +1,7 @@
 ---
-type: card
+class: card
 explain: 
 skills: 
 star: 
-lv: 
+liberation: 
 ---
