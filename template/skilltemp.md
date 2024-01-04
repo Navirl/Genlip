@@ -1,5 +1,5 @@
 ---
 class: skill
-kairyoku: 
+world_power: 
 tags: 
 ---
