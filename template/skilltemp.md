@@ -1,9 +1,8 @@
 ---
 class: skill
-world_power: 2000
-tags:
-  - キャリーアシスト
-  - ポイント系アイテム
-  - 10％
-liberation: 0
+界力: 
+tags: 
+消費霊力: 
+クールタイム:
+効果時間:
 ---

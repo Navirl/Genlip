@@ -4,7 +4,7 @@ skill
 ```dataview
 TABLE rows.file.link,rows.file.tags
 where file.inlinks
-where type = "skill"
+where class = "skill"
 where contains(file.tags,"体力")
 group by file.inlinks
 ```

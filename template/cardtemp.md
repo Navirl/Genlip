@@ -1,20 +1,20 @@
 ---
 class: card
-star: 3
-element: power
-type: attack
-hp: 0
-shield: 0
-break: 0
-spiritual_power: 0
-attack: 0
-defense: 0
-phychic_power: 0
-technique: 0
-charge: 0
-luck: 0
-skills0:
-  - "[[バードスプラッシュ - 0]]"
-  - "[[霊撃力プラスⅠ - 0]]"
-  - "[[攻撃力アップⅡ - 0]]"
+★: 3
+属性: 
+タイプ: 
+体力:  
+シールド: 
+ブレイク: 
+霊力: 
+攻撃力: 
+防御力: 
+霊撃力: 
+技術: 
+チャージ: 
+運: 
+1_想起解放:
+  - "[[Test - 1]]"
+  - "[[Alpha - 1]]"
+  - "[[Beta - 1]]"
 ---
