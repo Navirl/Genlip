@@ -17,4 +17,5 @@ class: card
   - "[[Test]]"
   - "[[Alpha]]"
   - "[[Beta]]"
+キャラ名:
 ---
