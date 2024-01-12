@@ -38,7 +38,11 @@ https://genlip-databases.notion.site/5c4b2aa94c6f428684dbaa4e598a3ff6?v=efd7c9a2
 中ボスを早く倒す
 https://x.com/Shibainu_kasoku/status/1733448208075157594?s=20
 
+総合能力はそれぞれのステータスに倍率を掛けて算出される。
+https://egg.5ch.net/test/read.cgi/applism/1704940074/62
 
+各Lvにおける必要経験値量
+https://egg.5ch.net/test/read.cgi/applism/1704940074/31
 
 主題歌
 https://x.com/gensoueclipse/status/1740304079169941902?s=20
