@@ -25,9 +25,20 @@
 ## その他
 [[情報源]]
 
+攻略Discord
+https://x.com/tohogenripu/status/1739889364900131244?s=20
+
+ボスリスト
+https://docs.google.com/spreadsheets/d/1kCAj9BFeF-oo_6JddWPN9bZIkwpEtyvrIveeHsMc4BM/edit?usp=sharing
+
+想起カードリスト
+https://genlip-databases.notion.site/5c4b2aa94c6f428684dbaa4e598a3ff6?v=efd7c9a23bec48568e1697b6830f5ea6&pvs=4
+
 ## 小ネタ
 中ボスを早く倒す
 https://x.com/Shibainu_kasoku/status/1733448208075157594?s=20
+
+
 
 主題歌
 https://x.com/gensoueclipse/status/1740304079169941902?s=20
@@ -51,6 +62,9 @@ https://x.com/gensoueclipse/status/1709848400370479281?s=20
 
 妖夢
 https://x.com/gensoueclipse/status/1710208154867527778?s=20
+妖夢特性謎仕様
+https://discord.com/channels/1184849441266606080/1185111460871950387/1187004755004899489
+
 
 村紗
 https://x.com/gensoueclipse/status/1710208221506617831?s=20
