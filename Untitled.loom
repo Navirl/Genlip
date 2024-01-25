@@ -1,0 +1,1010 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "560d1082-dd4b-46f0-be10-5588865e415d",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "source",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Source",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "e0de1f1f-1abd-4208-9310-66a04e58b96b",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "source-file",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Source File",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "d3cb630c-6e4d-4c10-aa69-20edd4806657",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "842px",
+        "type": "multi-tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "67b4c1aa-6687-4b4c-91db-35a09a5d278e",
+            "content": "[[トゥランプルセンティピード]]",
+            "color": "green"
+          },
+          {
+            "id": "9b20d673-0fa6-4d89-9b6f-1743eef3e12e",
+            "content": "[[霊撃力アップⅣ]]",
+            "color": "green"
+          },
+          {
+            "id": "3aeee18b-392f-4caa-bbdd-484022f1798d",
+            "content": "[[霊力プラスⅢ]]",
+            "color": "orange"
+          },
+          {
+            "id": "3d831bbc-cd64-4c73-8c09-9473d916442c",
+            "content": "[[壊滅Ⅰ]]",
+            "color": "yellow"
+          },
+          {
+            "id": "d8e03db6-6576-4191-ada5-cbd3bc2c7f73",
+            "content": "[[有利属性ダメージアップⅡ]]",
+            "color": "gray"
+          },
+          {
+            "id": "b07dd349-470f-4c89-9b30-830dff77c237",
+            "content": "[[動き出す要石]]",
+            "color": "blue"
+          },
+          {
+            "id": "d842eea6-aa3e-448c-b559-8ecd894b4224",
+            "content": "[[体力プラスⅣ]]",
+            "color": "orange"
+          },
+          {
+            "id": "7db063b2-11d2-4c88-81f0-1a44bac2a52c",
+            "content": "[[ブレイク威力［ショット］Ⅱ]]",
+            "color": "blue"
+          },
+          {
+            "id": "e532a0fc-d2cb-4f6b-b6ed-06c55a2ea359",
+            "content": "[[チャージアップⅢ]]",
+            "color": "light gray"
+          },
+          {
+            "id": "28e6f221-7f7f-4221-a093-0f16ceaed3ac",
+            "content": "[[［力］パワーアップⅡ]]",
+            "color": "purple"
+          },
+          {
+            "id": "6bc61617-a580-43ca-a6a5-d05a01d66ba6",
+            "content": "[[ビトレイアルミーク]]",
+            "color": "green"
+          },
+          {
+            "id": "f75d9c6f-1e9b-4656-b18a-4314970dd689",
+            "content": "[[霊撃力プラスⅣ]]",
+            "color": "blue"
+          },
+          {
+            "id": "da28cb02-4310-4ed7-9e80-284e8257c77c",
+            "content": "[[［心］ブレイクパワーアシストⅠ]]",
+            "color": "purple"
+          },
+          {
+            "id": "489fba6e-35e4-4d95-97c1-01abc7ab482e",
+            "content": "[[吸収範囲アップ［全］Ⅰ]]",
+            "color": "purple"
+          },
+          {
+            "id": "d6c9de36-d722-494b-8e48-89732c8a1b9a",
+            "content": "[[シールドプラスⅣ]]",
+            "color": "gray"
+          },
+          {
+            "id": "afe19f8a-3467-41c5-a1b9-ce4bbe339e17",
+            "content": "[[銀華旋風斬]]",
+            "color": "yellow"
+          },
+          {
+            "id": "6cbfff31-fa3d-4b02-b7c5-df83aeb462c0",
+            "content": "[[攻撃力アップⅣ]]",
+            "color": "yellow"
+          },
+          {
+            "id": "6031a895-bbde-4029-a3fa-f58f0038fd25",
+            "content": "[[習得回復［霊力］Ⅱ]]",
+            "color": "purple"
+          },
+          {
+            "id": "eae43802-6c0a-4f0b-8f8c-dbf59197749a",
+            "content": "[[霊力アップⅢ]]",
+            "color": "brown"
+          },
+          {
+            "id": "a6fce1a7-7fdf-440d-adcd-eb99b69d8ae9",
+            "content": "[[知の加護［攻］Ⅱ]]",
+            "color": "brown"
+          },
+          {
+            "id": "55f6b80b-297e-4437-a7f5-8a2be1140cb3",
+            "content": "[[式神の援護]]",
+            "color": "brown"
+          },
+          {
+            "id": "27e7c043-51ed-4ad5-8eaf-f9897846585c",
+            "content": "[[技術プラスⅣ]]",
+            "color": "brown"
+          },
+          {
+            "id": "950b6353-46f2-4e1e-aa25-a7b5e8d9e908",
+            "content": "[[獲得ブースト［ブレイク］]]",
+            "color": "blue"
+          },
+          {
+            "id": "d9e7c1f6-93b4-4d6c-8909-15490820e2a1",
+            "content": "[[ブレイクアシスト［ショット］Ⅱ]]",
+            "color": "yellow"
+          },
+          {
+            "id": "12d04d4a-a95b-41fd-9880-f19d5261a3a0",
+            "content": "[[技術アップⅣ]]",
+            "color": "gray"
+          },
+          {
+            "id": "29d101ac-613b-48c8-abe3-e49b80d1c07e",
+            "content": "[[純なる力]]",
+            "color": "yellow"
+          },
+          {
+            "id": "bf2864db-23eb-4c96-8e9c-47065f0abf18",
+            "content": "[[攻撃力プラスⅣ]]",
+            "color": "yellow"
+          },
+          {
+            "id": "a6bb718f-58f0-4358-8214-cde607cff243",
+            "content": "[[有利属性ダメージアップⅠ]]",
+            "color": "pink"
+          },
+          {
+            "id": "b7c2cfc9-57da-4b35-bbcc-6f850c153145",
+            "content": "[[［知］パワーアップⅠ]]",
+            "color": "pink"
+          },
+          {
+            "id": "bc3d7697-8bf6-4675-b4b1-42da4202a5b5",
+            "content": "[[［知］ブレイクパワーアシストⅡ]]",
+            "color": "purple"
+          },
+          {
+            "id": "a93f1f05-35c4-4c51-a40d-d9c5e4314f60",
+            "content": "[[イドとエゴ]]",
+            "color": "brown"
+          },
+          {
+            "id": "463277ba-f51d-461a-9c51-ef8ea88ff00c",
+            "content": "[[習得回復［ブレイク］Ⅱ]]",
+            "color": "yellow"
+          },
+          {
+            "id": "feb0c297-5997-4f79-bf49-db75f62996c9",
+            "content": "[[魔人経巻の経]]",
+            "color": "brown"
+          },
+          {
+            "id": "64361c95-8b9c-4330-838f-50ac2c65265a",
+            "content": "[[防御力プラスⅣ]]",
+            "color": "orange"
+          },
+          {
+            "id": "ed63afe8-6650-4768-ac52-313b239ecec8",
+            "content": "[[習得回復［体力］Ⅱ]]",
+            "color": "light gray"
+          },
+          {
+            "id": "04cb2e9e-3325-4afc-b5c8-2c042cd264cf",
+            "content": "[[堅牢Ⅰ]]",
+            "color": "pink"
+          },
+          {
+            "id": "77329666-fff4-491c-a440-b799c894de3a",
+            "content": "[[チャージアップⅣ]]",
+            "color": "orange"
+          },
+          {
+            "id": "3b3f25f0-14b5-4076-9ff0-511721d87f8e",
+            "content": "[[飛倉の破片]]",
+            "color": "light gray"
+          },
+          {
+            "id": "a992d7a7-2912-46ed-91d7-34c5088f4df2",
+            "content": "[[攻撃力アップⅢ]]",
+            "color": "blue"
+          },
+          {
+            "id": "80e56746-5b32-4e06-8551-e3bc1c85937c",
+            "content": "[[体の加護［霊］Ⅰ]]",
+            "color": "purple"
+          },
+          {
+            "id": "427959f2-d66b-4c14-91e1-899399f26e22",
+            "content": "[[獲得ブースト［全］]]",
+            "color": "yellow"
+          },
+          {
+            "id": "d157ab54-fd61-4b52-b3a3-c1840267c2fd",
+            "content": "[[再起の薬]]",
+            "color": "light gray"
+          },
+          {
+            "id": "3fc1b389-45dd-498b-af06-a77043072a59",
+            "content": "[[シールドアップⅣ]]",
+            "color": "blue"
+          },
+          {
+            "id": "21c4edcb-96a3-4fab-8305-1e99f0734483",
+            "content": "[[体力プラスⅢ]]",
+            "color": "light gray"
+          },
+          {
+            "id": "06a8d41a-1009-47ed-9598-d3f48d91a89c",
+            "content": "[[陣形アシスト［ガード］]]",
+            "color": "yellow"
+          },
+          {
+            "id": "8f209ab1-bbbb-4cae-9370-6034cb4528c2",
+            "content": "[[シールド回復]]",
+            "color": "purple"
+          },
+          {
+            "id": "a8717001-5af1-4e10-bc04-78a0731f8ecf",
+            "content": "[[新春落とし弾]]",
+            "color": "yellow"
+          },
+          {
+            "id": "dd66b603-58dc-4254-b85a-288e390edc1f",
+            "content": "[[霊力プラスⅣ]]",
+            "color": "light gray"
+          },
+          {
+            "id": "eb4e24b3-7b56-48c7-b694-9b75e8deb0d1",
+            "content": "[[防御力アップⅢ]]",
+            "color": "green"
+          },
+          {
+            "id": "7f350506-e823-466c-8998-2bb94bfb2d8c",
+            "content": "[[［力］ブレイクパワーアシストⅡ]]",
+            "color": "brown"
+          },
+          {
+            "id": "5b1d37d8-b683-4bde-a4e6-fb1a5d1cfd0b",
+            "content": "[[狂気の明かり]]",
+            "color": "light gray"
+          },
+          {
+            "id": "142f498a-cdb7-4d66-b648-379d00938fe3",
+            "content": "[[霊撃力アップⅢ]]",
+            "color": "brown"
+          },
+          {
+            "id": "fecb8332-43a2-4cf6-8654-ba9b4d9961f6",
+            "content": "[[［力］パワーアップⅠ]]",
+            "color": "green"
+          },
+          {
+            "id": "a7902afb-fd46-4eb8-9f81-add9b7fad6c0",
+            "content": "[[霊技Ⅱ]]",
+            "color": "blue"
+          },
+          {
+            "id": "deceb0df-00b7-4437-baed-207009d6ad4c",
+            "content": "[[カワウソ霊の露払い]]",
+            "color": "gray"
+          },
+          {
+            "id": "b66dc992-998e-4671-b5a2-a138020dab89",
+            "content": "[[［体］パワーアップⅠ]]",
+            "color": "gray"
+          },
+          {
+            "id": "9c39d0ce-9f87-4b6d-bdd3-f43c839518cd",
+            "content": "[[キャリーアシスト［ポイント］Ⅱ]]",
+            "color": "brown"
+          },
+          {
+            "id": "457d1f2e-03ef-425e-9170-22edd3826d6d",
+            "content": "[[体の加護［攻］Ⅱ]]",
+            "color": "yellow"
+          },
+          {
+            "id": "243fb384-3dff-461f-8fc2-792fba91d2a4",
+            "content": "[[勁牙組]]",
+            "color": "light gray"
+          },
+          {
+            "id": "aea4c90a-7bc8-4b9c-8f2b-59b8dd0e2b5c",
+            "content": "[[キャリーアシスト［回復］Ⅱ]]",
+            "color": "pink"
+          },
+          {
+            "id": "58314073-c95f-4f70-94fd-470e52bc0f8f",
+            "content": "[[習得回復［シールド］Ⅱ]]",
+            "color": "brown"
+          },
+          {
+            "id": "0747c5b7-9099-4eba-8a9c-296cf3678a9e",
+            "content": "[[防御力アップⅣ]]",
+            "color": "blue"
+          },
+          {
+            "id": "4b0f9265-6100-4391-b4b2-58b6712897ab",
+            "content": "[[バレッジスクープ]]",
+            "color": "red"
+          },
+          {
+            "id": "0e6f540d-b1a2-48a2-bc80-c555c614bd92",
+            "content": "[[チャージプラスⅣ]]",
+            "color": "brown"
+          },
+          {
+            "id": "954a34ab-4aa6-498c-8405-293c3e6a7f8f",
+            "content": "[[技術プラスⅢ]]",
+            "color": "purple"
+          },
+          {
+            "id": "67a76974-2964-478f-9126-48ebf083c739",
+            "content": "[[吸収範囲アップ［全］Ⅱ]]",
+            "color": "purple"
+          },
+          {
+            "id": "02b956a7-9ead-48de-ae46-77e5688102ee",
+            "content": "[[舎弟招集]]",
+            "color": "purple"
+          },
+          {
+            "id": "b3f31236-13f5-49eb-8f1a-47f9f8ffc972",
+            "content": "[[ブレイクアップⅣ]]",
+            "color": "blue"
+          },
+          {
+            "id": "ce0d90e9-c11c-455a-856a-cdc897611ee8",
+            "content": "[[獲得ブースト［界力］]]",
+            "color": "purple"
+          },
+          {
+            "id": "91ae09ec-73af-438d-a694-93d6bb3088eb",
+            "content": "[[技の加護［防］Ⅰ]]",
+            "color": "yellow"
+          },
+          {
+            "id": "eba38a59-2dbe-416b-bbf4-5e9a2b102ad0",
+            "content": "[[［技］パワーアップⅡ]]",
+            "color": "yellow"
+          },
+          {
+            "id": "94359770-e1fe-401a-a603-18ed2b7c560e",
+            "content": "[[グリードモンスター]]",
+            "color": "blue"
+          },
+          {
+            "id": "aabb8662-e1e0-4b0d-976f-e7bf4bad0393",
+            "content": "[[吸収範囲アップ［回復］Ⅱ]]",
+            "color": "gray"
+          },
+          {
+            "id": "256ad69c-2d47-4b73-b808-efbfea05554b",
+            "content": "[[ブレイクプラスⅢ]]",
+            "color": "pink"
+          },
+          {
+            "id": "a6d780d6-a233-4567-a54d-f26a3b68a9ea",
+            "content": "[[［心］ブレイクパワーアシストⅡ]]",
+            "color": "green"
+          },
+          {
+            "id": "b2653c2f-3b02-49c3-a16e-abdeceb5034b",
+            "content": "[[阿吽障壁]]",
+            "color": "red"
+          },
+          {
+            "id": "98de4a73-de2f-4c63-8a8a-e1fbd6239c41",
+            "content": "[[［技］ブレイクパワーアシストⅠ]]",
+            "color": "brown"
+          },
+          {
+            "id": "2680551f-a8c2-4ebc-90b8-b0e2b98de92e",
+            "content": "[[技の加護［攻］Ⅱ]]",
+            "color": "purple"
+          },
+          {
+            "id": "d46118fa-df72-4719-9c2b-e0b399753a8d",
+            "content": "[[弾幕への囁き]]",
+            "color": "yellow"
+          },
+          {
+            "id": "a9f43439-b340-495a-9805-8d8ebd349552",
+            "content": "[[防御力プラスⅢ]]",
+            "color": "red"
+          },
+          {
+            "id": "cee9fb38-cf5e-49c7-bfe8-94d7a73c57cf",
+            "content": "[[ブレイクアシスト［シールド］Ⅰ]]",
+            "color": "green"
+          },
+          {
+            "id": "30ed359d-36f3-4845-8b54-83e618c65da6",
+            "content": "[[体の加護［防］Ⅱ]]",
+            "color": "orange"
+          },
+          {
+            "id": "92ebcf62-78da-413e-ac2d-ca4ceb4874c0",
+            "content": "[[ブレイクコンチェルト]]",
+            "color": "blue"
+          },
+          {
+            "id": "99a3618d-b4c5-45fe-8efc-1c755bfb03c9",
+            "content": "[[キャリーアシスト［回復］Ⅰ]]",
+            "color": "purple"
+          },
+          {
+            "id": "86aaa06c-5fe0-4528-871b-c58829180eb0",
+            "content": "[[技の加護［技］Ⅱ]]",
+            "color": "gray"
+          },
+          {
+            "id": "88d180b6-f783-4829-9692-875d8a4bc1d0",
+            "content": "[[従順なる霊力]]",
+            "color": "purple"
+          },
+          {
+            "id": "72838beb-d0ae-4693-9c01-566beb452fb6",
+            "content": "[[霊撃力プラスⅢ]]",
+            "color": "pink"
+          },
+          {
+            "id": "6f276478-85db-42d9-8077-6513ce02ada0",
+            "content": "[[キャリーアシスト［ポイント］Ⅰ]]",
+            "color": "brown"
+          },
+          {
+            "id": "c37711f0-bbb2-4238-848e-192b1171e987",
+            "content": "[[心の加護［霊］Ⅱ]]",
+            "color": "red"
+          },
+          {
+            "id": "c87e4c75-8c8f-44fb-88d9-6dceced054c7",
+            "content": "[[バックダンサーズ]]",
+            "color": "brown"
+          },
+          {
+            "id": "0b89dd70-97b6-4cbb-a0fd-83a5436849b0",
+            "content": "[[ブレイクアシスト［スペル］Ⅰ]]",
+            "color": "purple"
+          },
+          {
+            "id": "fe1427c2-e021-403b-97c5-9a9db0aa4428",
+            "content": "[[天狼疾駆]]",
+            "color": "brown"
+          },
+          {
+            "id": "21ab68e4-931e-429f-a52e-3f800458ff9e",
+            "content": "[[防御力アップⅡ]]",
+            "color": "yellow"
+          },
+          {
+            "id": "1725a197-5dce-4fdc-8de3-59e0237d7e2a",
+            "content": "[[星脈弾]]",
+            "color": "gray"
+          },
+          {
+            "id": "1fc94b0c-8744-456e-9ed8-3f49671a9ec2",
+            "content": "[[ブレイクアシスト［ショット］]]",
+            "color": "purple"
+          },
+          {
+            "id": "918e4a19-78c4-4335-9727-087ef0d5b808",
+            "content": "[[ワーハクタクの加護]]",
+            "color": "purple"
+          },
+          {
+            "id": "c44ebebb-a306-4f9b-b2cc-c12b2dac7b84",
+            "content": "[[技術アップⅢ]]",
+            "color": "green"
+          },
+          {
+            "id": "dbaa5234-4296-46d2-a4e7-efe164d35fbf",
+            "content": "[[ブレイク威力［ショット］Ⅰ]]",
+            "color": "pink"
+          },
+          {
+            "id": "4bbe0627-d5bb-4331-ab10-1d3ba02fc0f7",
+            "content": "[[歴史の知恵]]",
+            "color": "brown"
+          },
+          {
+            "id": "c6899fd3-d244-40dc-b792-619605f73e0b",
+            "content": "[[シールドアップⅢ]]",
+            "color": "orange"
+          },
+          {
+            "id": "bc469cfa-0e9c-41f5-b6e2-72ca47ab3f28",
+            "content": "[[防御力プラスⅡ]]",
+            "color": "orange"
+          },
+          {
+            "id": "623c129f-5627-458b-97d3-f147126bcd13",
+            "content": "[[［知］パワーアップ]]",
+            "color": "blue"
+          },
+          {
+            "id": "c5190700-6dd9-42c9-91fc-401a7188a690",
+            "content": "[[飛頭の助力]]",
+            "color": "blue"
+          },
+          {
+            "id": "949884f9-533c-4ea4-b7b3-d61dde4833a7",
+            "content": "[[シールドプラスⅢ]]",
+            "color": "yellow"
+          },
+          {
+            "id": "0da914ad-3767-4f8a-8acf-b85e9a68cf5a",
+            "content": "[[体力アップⅡ]]",
+            "color": "yellow"
+          },
+          {
+            "id": "9876e188-8582-4220-8a9b-38b39dc9514a",
+            "content": "[[バッドスパイラル]]",
+            "color": "yellow"
+          },
+          {
+            "id": "590e4d7c-f1bb-46e3-8dbd-90f1668e8bc3",
+            "content": "[[習得回復［体力］Ⅰ]]",
+            "color": "green"
+          },
+          {
+            "id": "8dffd372-223c-496d-ad3e-d8305e99d780",
+            "content": "[[邪仙の施し]]",
+            "color": "green"
+          },
+          {
+            "id": "c8d7b985-8183-4384-bec7-59857330fd89",
+            "content": "[[チャージプラスⅢ]]",
+            "color": "blue"
+          },
+          {
+            "id": "9a1819cd-5d06-4291-a1a1-9e41f4e66a16",
+            "content": "[[吸収範囲アップ［ポイント］Ⅰ]]",
+            "color": "light gray"
+          },
+          {
+            "id": "76c2c773-9b62-416f-8c68-b7fb44fe3565",
+            "content": "[[［体］ブレイクパワーアシストⅡ]]",
+            "color": "orange"
+          },
+          {
+            "id": "785172b7-07c9-4f6c-9202-1326c688ce75",
+            "content": "[[魔導書展開]]",
+            "color": "purple"
+          },
+          {
+            "id": "940948d9-d24c-4f1e-9b3a-93ad062f83b0",
+            "content": "[[霊撃力プラスⅡ]]",
+            "color": "yellow"
+          },
+          {
+            "id": "296f711d-26d0-441d-899a-753ffdf39abd",
+            "content": "[[祈り地蔵]]",
+            "color": "blue"
+          },
+          {
+            "id": "7b91a558-a307-4d04-bc0a-b23d33853ffc",
+            "content": "[[［体］パワーアップⅡ]]",
+            "color": "gray"
+          },
+          {
+            "id": "afc67c82-d336-4709-a7d9-7037579706a7",
+            "content": "[[地獄の回収猫]]",
+            "color": "red"
+          },
+          {
+            "id": "adc9c7ec-ffb7-49cf-a629-f6f1fc7a8ce7",
+            "content": "[[ブレイクプラスⅡ]]",
+            "color": "blue"
+          },
+          {
+            "id": "b46d8504-c409-4148-8c63-f9b2911f90aa",
+            "content": "[[宝塔の力]]",
+            "color": "pink"
+          },
+          {
+            "id": "54d8c551-6b6e-4937-86b6-e7e3724f3bda",
+            "content": "[[陣形アシスト［拡散］]]",
+            "color": "red"
+          },
+          {
+            "id": "e9c93268-4974-4be2-ad8b-4e1b063837e6",
+            "content": "[[力の加護［霊］Ⅱ]]",
+            "color": "purple"
+          },
+          {
+            "id": "0e5224d3-42f7-430a-b361-23bc1b911e6b",
+            "content": "[[弓兵埴輪]]",
+            "color": "yellow"
+          },
+          {
+            "id": "7c3d88c7-d7a2-4060-845f-90b74aa22808",
+            "content": "[[強襲Ⅰ]]",
+            "color": "brown"
+          },
+          {
+            "id": "4fdd8a1a-84e3-4692-a0b0-a1183183037b",
+            "content": "[[陣形アシスト［集中］]]",
+            "color": "purple"
+          },
+          {
+            "id": "d6f024d4-229e-4285-9416-7af908843ea2",
+            "content": "[[感染する耐性]]",
+            "color": "blue"
+          },
+          {
+            "id": "9850e8b8-cbad-43e5-9b9d-f871b5a92d59",
+            "content": "[[体力アップⅢ]]",
+            "color": "gray"
+          },
+          {
+            "id": "9852b19f-7fad-4dfa-a884-0970adf82409",
+            "content": "[[体力回復]]",
+            "color": "red"
+          },
+          {
+            "id": "e211b804-49ed-4db1-8f07-0fcf0991bd4c",
+            "content": "[[化猫]]",
+            "color": "green"
+          },
+          {
+            "id": "4b6235d6-2b0f-4f19-9694-e73d843c72e2",
+            "content": "[[陣形アシスト［前方］]]",
+            "color": "gray"
+          },
+          {
+            "id": "92e1bb0e-5a2d-422d-ba14-9efb68487a3d",
+            "content": "[[獣の力]]",
+            "color": "yellow"
+          },
+          {
+            "id": "0d15b0d8-a06d-47b3-a254-82451714dfde",
+            "content": "[[習得回復［シールド］Ⅰ]]",
+            "color": "blue"
+          },
+          {
+            "id": "581c7abd-d02b-415d-a723-3be7a3b18c6b",
+            "content": "[[読み解く書物の導き]]",
+            "color": "brown"
+          },
+          {
+            "id": "7b333aff-c738-4db9-9c6a-17d5c921992a",
+            "content": "[[チャージアップⅡ]]",
+            "color": "brown"
+          },
+          {
+            "id": "f5427265-9873-417e-b45e-023e4accefa6",
+            "content": "[[緑色の嫉妬]]",
+            "color": "red"
+          },
+          {
+            "id": "74ce305b-8dae-464f-9e24-fbd8ab37f0e0",
+            "content": "[[ブレイクアップⅢ]]",
+            "color": "green"
+          },
+          {
+            "id": "1c04ebf0-97b1-44ba-9fc3-3ec8781fd875",
+            "content": "[[吸収範囲アップ［回復］Ⅰ]]",
+            "color": "gray"
+          },
+          {
+            "id": "0ae6016d-b46b-4e1c-8b3d-3c418600ecdc",
+            "content": "[[夜雀の狂歌]]",
+            "color": "green"
+          },
+          {
+            "id": "cb38d7cd-4e89-46a7-8137-8d2a00db4bed",
+            "content": "[[オーバーエコー]]",
+            "color": "red"
+          },
+          {
+            "id": "ef7666d5-f9ad-4903-a4c7-96a30cabec81",
+            "content": "[[攻撃力プラスⅢ]]",
+            "color": "red"
+          },
+          {
+            "id": "b33104ef-2547-4179-98b5-fd43d5a48635",
+            "content": "[[知の加護［技］Ⅱ]]",
+            "color": "brown"
+          },
+          {
+            "id": "cb1498f3-4c7f-4423-923d-a01e2075e5ce",
+            "content": "[[正しき用途]]",
+            "color": "yellow"
+          },
+          {
+            "id": "1873a3fa-7dab-49e4-b37d-abe831841933",
+            "content": "[[消費界力ダウンⅡ]]",
+            "color": "red"
+          },
+          {
+            "id": "eae0d35b-2421-4078-bb36-8523d100f1bf",
+            "content": "[[姉妹の旋律]]",
+            "color": "red"
+          },
+          {
+            "id": "9305d0f7-f00b-427d-a1e9-9a25248e71b4",
+            "content": "[[天狗の通り道]]",
+            "color": "red"
+          },
+          {
+            "id": "30cc7d7f-1b7e-4329-87b2-c59c2c687395",
+            "content": "[[霊技Ⅰ]]",
+            "color": "orange"
+          },
+          {
+            "id": "b82b39b5-42b7-41e4-8e7c-70fc9ea6f406",
+            "content": "[[習得回復［霊力］Ⅰ]]",
+            "color": "light gray"
+          },
+          {
+            "id": "f87e3ffa-5257-4637-83dc-60816e2c7840",
+            "content": "[[三途の渡し賃]]",
+            "color": "red"
+          },
+          {
+            "id": "62e71b78-c81f-4912-826d-c4fc105eeeeb",
+            "content": "[[力の加護［防］Ⅱ]]",
+            "color": "light gray"
+          },
+          {
+            "id": "cfd15e76-77c7-4ea4-b99a-b13a2b5f7ac5",
+            "content": "[[手厚い歓迎]]",
+            "color": "blue"
+          },
+          {
+            "id": "5f87a884-e643-414c-9a4c-ecbff104299e",
+            "content": "[[シールドアップⅡ]]",
+            "color": "blue"
+          },
+          {
+            "id": "ac4e8d60-3d57-46af-85a4-c62b732c5fea",
+            "content": "[[共の加護［防］Ⅱ]]",
+            "color": "orange"
+          },
+          {
+            "id": "1d8ae712-a4e6-4928-a783-cc3fe2d8defa",
+            "content": "[[秋の豊穣]]",
+            "color": "purple"
+          },
+          {
+            "id": "b8e9df7a-3e51-40d6-88ad-8cb1bbd026ff",
+            "content": "[[霊力プラスⅠ]]",
+            "color": "blue"
+          },
+          {
+            "id": "68ef78bd-1192-4539-9f3b-dd0905a6958d",
+            "content": "[[ブレイク威力［シールド］Ⅰ]]",
+            "color": "pink"
+          },
+          {
+            "id": "3ef231c6-1533-4302-8f40-c0d90f6a9c18",
+            "content": "[[淡水の人魚]]",
+            "color": "yellow"
+          },
+          {
+            "id": "c9f6534b-21d9-4d23-ae8b-45ba9ba137df",
+            "content": "[[防御力プラスⅠ]]",
+            "color": "blue"
+          },
+          {
+            "id": "d0222468-9e4e-44fa-b790-7a9899ead698",
+            "content": "[[クワイアットドーム]]",
+            "color": "yellow"
+          },
+          {
+            "id": "3ff5b0f4-da57-4874-83fe-85c363a14126",
+            "content": "[[ブレイクプラスⅠ]]",
+            "color": "light gray"
+          },
+          {
+            "id": "02f9cfe6-975c-4035-98ea-d6ae9d9a4dce",
+            "content": "[[ディテクタリカバー]]",
+            "color": "light gray"
+          },
+          {
+            "id": "9ce16226-3182-49f5-a36a-b223ff866a0c",
+            "content": "[[シールドプラスⅠ]]",
+            "color": "red"
+          },
+          {
+            "id": "10cca7fb-c66c-45ed-9b89-c9d0a66ba807",
+            "content": "[[マルチレットバグ]]",
+            "color": "purple"
+          },
+          {
+            "id": "56f47da7-6b15-4289-871c-eb032eed16f7",
+            "content": "[[スコアディフレクト]]",
+            "color": "orange"
+          },
+          {
+            "id": "3647da4e-e37b-43f7-bad5-68859c0a229b",
+            "content": "[[霊撃力アップⅡ]]",
+            "color": "yellow"
+          },
+          {
+            "id": "d04fd2c7-bef2-4f0a-9b64-4aa9ac1d1c50",
+            "content": "[[蝶の舞]]",
+            "color": "blue"
+          },
+          {
+            "id": "5472b60b-cd77-49b7-8f61-80ada6a8ad1e",
+            "content": "[[技術プラスⅠ]]",
+            "color": "blue"
+          },
+          {
+            "id": "401a7f95-494e-4300-8bab-a989ccf6e74c",
+            "content": "[[月下の月兎]]",
+            "color": "red"
+          },
+          {
+            "id": "96335c6d-39a1-4cdf-823c-c3ea77066e9b",
+            "content": "[[攻撃力プラスⅠ]]",
+            "color": "pink"
+          },
+          {
+            "id": "df9075e7-c6c6-4caf-808f-d01b0919370a",
+            "content": "[[ジェリークラッシュ]]",
+            "color": "pink"
+          },
+          {
+            "id": "e6dd1e1f-d649-4abe-988b-fece4688328f",
+            "content": "[[霊撃力プラスⅠ]]",
+            "color": "light gray"
+          },
+          {
+            "id": "6a9be6cd-dc8d-4c68-8de6-1a7952de8670",
+            "content": "[[探索の心得]]",
+            "color": "pink"
+          },
+          {
+            "id": "a26d4ebe-aac1-4437-adb2-09cd085538ce",
+            "content": "[[ブレイク威力［スペル］Ⅰ]]",
+            "color": "purple"
+          },
+          {
+            "id": "6777c898-5ead-42b1-8f8f-0794855ad030",
+            "content": "[[レーザーネット]]",
+            "color": "brown"
+          },
+          {
+            "id": "5cfd266c-af1c-4a3d-94a7-7f1b52d05003",
+            "content": "[[チャージプラスⅠ]]",
+            "color": "brown"
+          },
+          {
+            "id": "a7b80e4e-ab53-47e4-805d-3600e3ec6d4b",
+            "content": "[[霊力アップⅡ]]",
+            "color": "orange"
+          },
+          {
+            "id": "08150bbf-5c11-4d18-97f7-9fbbe889d8cb",
+            "content": "[[春の兆し]]",
+            "color": "yellow"
+          },
+          {
+            "id": "baaac935-7318-4db4-b970-859825afe6cb",
+            "content": "[[鬼火落とし]]",
+            "color": "green"
+          },
+          {
+            "id": "d5117550-faf5-4ed8-b534-a44939ace970",
+            "content": "[[技術アップⅡ]]",
+            "color": "purple"
+          },
+          {
+            "id": "d984f7a9-bcc1-426f-8eaf-8980fe3cbd66",
+            "content": "[[秋の紅葉]]",
+            "color": "purple"
+          },
+          {
+            "id": "f140442b-acbc-4af8-a1c7-ff84048bb9a5",
+            "content": "[[バードスプラッシュ]]",
+            "color": "pink"
+          },
+          {
+            "id": "d1614a01-96f4-4c18-8a8a-2b8fd276c75d",
+            "content": "[[攻撃力アップⅡ]]",
+            "color": "gray"
+          },
+          {
+            "id": "0ef66d72-e468-482c-ad7f-66a2f18ab1dc",
+            "content": "[[猫にも小判]]",
+            "color": "gray"
+          },
+          {
+            "id": "e69d1df0-3e2e-4170-8a33-78d975e8ef08",
+            "content": "[[妖精の心]]",
+            "color": "orange"
+          },
+          {
+            "id": "0fe1de71-a41a-4045-807c-e155e816224f",
+            "content": "[[冬の想い]]",
+            "color": "brown"
+          },
+          {
+            "id": "ec0027ba-d2f9-4843-9478-aaa39176e176",
+            "content": "[[体力プラスⅠ]]",
+            "color": "orange"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": "4_想起解放"
+      }
+    ],
+    "rows": [],
+    "filters": [],
+    "sources": [
+      {
+        "id": "e14f3f8a-f729-49ff-b0d5-ebbc8be7096c",
+        "type": "folder",
+        "path": "card",
+        "includeSubfolders": true
+      }
+    ],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.15.10"
+}
